@@ -1,0 +1,4149 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 1,
+        "id": 124354832683,
+        "name": "Arvo",
+        "value": 0.9998780933804705,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.221399, 55.990691]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.9966101694915255,
+        "id": 239403477550,
+        "name": "Барвиха Lounge",
+        "value": 0.9997561867609411,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.662997, 55.682528]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.9932203389830508,
+        "id": 13989191003,
+        "name": "Pivaldi",
+        "value": 0.9996342801414116,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.21074, 56.001996]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.9898305084745763,
+        "id": 77192553743,
+        "name": "Барвиха Lounge",
+        "value": 0.9995123735218823,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.622397, 55.755154]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.9864406779661017,
+        "id": 1051904212,
+        "name": "Кофемания",
+        "value": 0.9993904669023528,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.642786, 55.734735]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.9830508474576272,
+        "id": 201188718035,
+        "name": "Rockets",
+        "value": 0.9992685602828234,
+        "icon": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.626708, 55.729016]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.9796610169491525,
+        "id": 82590371825,
+        "name": "Аэроплан",
+        "value": 0.9991466536632939,
+        "icon": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.640048, 55.737307]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.976271186440678,
+        "id": 223077694891,
+        "name": "Frank by Баста",
+        "value": 0.9990247470437644,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.63782, 55.730304]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.9728813559322034,
+        "id": 1790528139,
+        "name": "Рамен-Клаб",
+        "value": 0.998902840424235,
+        "icon": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.640432, 55.736623]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.9694915254237289,
+        "id": 36560766557,
+        "name": "Барвиха Lounge",
+        "value": 0.9987809338047056,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.67488, 55.776387]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.9661016949152542,
+        "id": 52680104900,
+        "name": "Frank by Баста",
+        "value": 0.9986590271851762,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.588055, 55.735498]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.9627118644067797,
+        "id": 26897361657,
+        "name": "Менталитет",
+        "value": 0.9985371205656467,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.636848, 55.771843]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.9593220338983051,
+        "id": 141814888844,
+        "name": "Барвиха Lounge",
+        "value": 0.9984152139461173,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.601912, 55.785502]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.9559322033898305,
+        "id": 223370323638,
+        "name": "Poke house",
+        "value": 0.9982933073265878,
+        "icon": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.589872, 55.733766]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.9525423728813559,
+        "id": 63134183526,
+        "name": "Барвиха Lounge",
+        "value": 0.9981714007070583,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.506936, 55.699893]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.9491525423728814,
+        "id": 158606513384,
+        "name": "Красная Роза",
+        "value": 0.998049494087529,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.588359, 55.734707]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.9457627118644067,
+        "id": 22672360492,
+        "name": "Колбасофф",
+        "value": 0.9979275874679995,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.210155, 56.002396]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.9423728813559322,
+        "id": 148980322463,
+        "name": "Даблби",
+        "value": 0.9978056808484701,
+        "icon": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.587651, 55.735242]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.9389830508474576,
+        "id": 50076136467,
+        "name": "Frank by Баста",
+        "value": 0.9976837742289406,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.614682, 55.760261]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.9355932203389831,
+        "id": 108083361450,
+        "name": "Барвиха Lounge",
+        "value": 0.9975618676094112,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.650236, 55.721913]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.9322033898305084,
+        "id": 90654086883,
+        "name": "Osteria Mario",
+        "value": 0.9974399609898817,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.628761, 55.741598]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.9288135593220339,
+        "id": 1770249382,
+        "name": "Brasserie Lambic",
+        "value": 0.9973180543703523,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.62436, 55.731505]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.9254237288135593,
+        "id": 128548692457,
+        "name": "Мята Signature",
+        "value": 0.9971961477508229,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.642312, 55.732464]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.9220338983050848,
+        "id": 71048418970,
+        "name": "Косой Маркс",
+        "value": 0.9970742411312934,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.656132, 55.74162]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.9186440677966101,
+        "id": 1788984433,
+        "name": "I Like Wine 2.0",
+        "value": 0.996952334511764,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.586566, 55.735806]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.9152542372881356,
+        "id": 45273873544,
+        "name": "The Black Swan",
+        "value": 0.9968304278922345,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.637866, 55.754495]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.911864406779661,
+        "id": 199540542944,
+        "name": "Кофемания",
+        "value": 0.9967085212727052,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.626495, 55.729423]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.9084745762711864,
+        "id": 157998496135,
+        "name": "Ycp",
+        "value": 0.9965866146531757,
+        "icon": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.633405, 55.763213]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.9050847457627119,
+        "id": 46310770691,
+        "name": "Клава",
+        "value": 0.9964647080336462,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.617521, 55.764169]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.9016949152542373,
+        "id": 86184316052,
+        "name": "Барвиха Lounge",
+        "value": 0.9963428014141168,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.543236, 55.74856]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.8983050847457628,
+        "id": 230591967307,
+        "name": "6 am Bread Kitchen",
+        "value": 0.9962208947945873,
+        "icon": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.641303, 55.737489]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.8949152542372881,
+        "id": 194520248099,
+        "name": "Escapist",
+        "value": 0.9960989881750579,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.645312, 55.754669]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.8915254237288136,
+        "id": 134220897896,
+        "name": "Brasserie Lambic",
+        "value": 0.9959770815555284,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.652157, 55.743351]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.888135593220339,
+        "id": 1119541190,
+        "name": "Шоколадница",
+        "value": 0.9958551749359991,
+        "icon": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.59067, 55.73634]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.8847457627118644,
+        "id": 178320356305,
+        "name": "Барвиха Lounge",
+        "value": 0.9957332683164696,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.562411, 55.743106]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.8813559322033898,
+        "id": 144162739050,
+        "name": "Mission New Ethic",
+        "value": 0.9956113616969401,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.670753, 55.770508]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.8779661016949153,
+        "id": 244028324414,
+        "name": "Le carré",
+        "value": 0.9954894550774107,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.642258, 55.737157]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.8745762711864407,
+        "id": 119762789277,
+        "name": "True Cost",
+        "value": 0.9953675484578812,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.653928, 55.740257]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.8711864406779661,
+        "id": 115736401897,
+        "name": "Галки",
+        "value": 0.9952456418383518,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.608719, 55.764844]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.8677966101694915,
+        "id": 103599214269,
+        "name": "68 Пауза",
+        "value": 0.9951237352188224,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.160778, 55.984647]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.864406779661017,
+        "id": 239619291990,
+        "name": "Мята Signature",
+        "value": 0.995001828599293,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.623492, 55.680311]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.8610169491525423,
+        "id": 32182804520,
+        "name": "Блэк Милк",
+        "value": 0.9948799219797635,
+        "icon": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.642508, 55.762108]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.8576271186440678,
+        "id": 238038416297,
+        "name": "Сентябрь",
+        "value": 0.9947580153602341,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.647423, 55.758772]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.8542372881355932,
+        "id": 227167313971,
+        "name": "Loona",
+        "value": 0.9946361087407046,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.603564, 55.762347]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.8508474576271187,
+        "id": 97590830877,
+        "name": "Sapiens",
+        "value": 0.9945142021211751,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.589122, 55.734299]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.847457627118644,
+        "id": 68731123342,
+        "name": "Nuahule Smoke Lubyanka",
+        "value": 0.9943922955016458,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.635609, 55.762858]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.8440677966101695,
+        "id": 211405360229,
+        "name": "Мята Platinum",
+        "value": 0.9942703888821163,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.62678, 55.758124]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.8406779661016949,
+        "id": 1201822258,
+        "name": "Кулинарная лавка братьев Караваевых",
+        "value": 0.9941484822625869,
+        "icon": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.586934, 55.735706]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.8372881355932204,
+        "id": 204314108075,
+        "name": "Farro Pasta Bar",
+        "value": 0.9940265756430574,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.639364, 55.758469]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.8338983050847457,
+        "id": 97087502904,
+        "name": "Harat’s pub",
+        "value": 0.993904669023528,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.631899, 55.76925]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.8305084745762712,
+        "id": 82546231132,
+        "name": "Tangiers Lounge Typography",
+        "value": 0.9937827624039985,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.628262, 55.73148]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.8271186440677966,
+        "id": 75382223890,
+        "name": "Слёзы Берёзы",
+        "value": 0.993660855784469,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.677776, 55.77561]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.823728813559322,
+        "id": 11442480091,
+        "name": "Интеллигенция",
+        "value": 0.9935389491649397,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.661624, 55.743792]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.8203389830508474,
+        "id": 77091348652,
+        "name": "Love Smoke Robots",
+        "value": 0.9934170425454102,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.621096, 55.73225]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.8169491525423729,
+        "id": 234890098500,
+        "name": "МакЛарен'с Паб",
+        "value": 0.9932951359258808,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.708671, 55.800692]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.8135593220338984,
+        "id": 44383983671,
+        "name": "Brasserie Lambic",
+        "value": 0.9931732293063513,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.635763, 55.777245]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.8101694915254237,
+        "id": 78291518629,
+        "name": "Frank by Баста",
+        "value": 0.993051322686822,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.627803, 55.743839]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.8067796610169492,
+        "id": 24795655816,
+        "name": "Хуго",
+        "value": 0.9929294160672925,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.640208, 55.737126]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.8033898305084746,
+        "id": 78369931480,
+        "name": "Аэроплан",
+        "value": 0.992807509447763,
+        "icon": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.627394, 55.732681]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.8,
+        "id": 22642467915,
+        "name": "Frank by Баста",
+        "value": 0.9926856028282336,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.584963, 55.805484]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.7966101694915254,
+        "id": 179439575991,
+        "name": "Джонджоли",
+        "value": 0.9925636962087041,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.640751, 55.733364]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.7932203389830509,
+        "id": 28049183827,
+        "name": "Рюмочная Довлатов",
+        "value": 0.9924417895891747,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.656027, 55.763651]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.7898305084745763,
+        "id": 187388947173,
+        "name": "Brasserie Lambic",
+        "value": 0.9923198829696452,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.561413, 55.691872]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.7864406779661017,
+        "id": 243088808182,
+        "name": "Алко-буфет Шашлычная",
+        "value": 0.9921979763501159,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.632586, 55.771652]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.7830508474576271,
+        "id": 126838999452,
+        "name": "Punk Fiction",
+        "value": 0.9920760697305864,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.670939, 55.774616]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.7796610169491526,
+        "id": 53914746201,
+        "name": "Brooms",
+        "value": 0.9919541631110569,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.655625, 55.742153]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.7762711864406779,
+        "id": 213025425277,
+        "name": "Лаунж-бар Mr. Atlant",
+        "value": 0.9918322564915275,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.62587, 55.732614]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.7728813559322034,
+        "id": 77800720162,
+        "name": "Рассвет",
+        "value": 0.991710349871998,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.56857, 55.764645]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.7694915254237288,
+        "id": 153977379747,
+        "name": "Снути Фокс",
+        "value": 0.9915884432524686,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.589146, 55.73101]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.7661016949152543,
+        "id": 1034559506,
+        "name": "El Gaucho",
+        "value": 0.9914665366329392,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.639308, 55.732774]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.7627118644067796,
+        "id": 107753041451,
+        "name": "Дом в Котором",
+        "value": 0.9913446300134098,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.645409, 55.758561]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.7593220338983051,
+        "id": 50480142791,
+        "name": "МСК Lounge",
+        "value": 0.9912227233938803,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.607725, 55.717879]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.7559322033898305,
+        "id": 1753926793,
+        "name": "Tehnikum",
+        "value": 0.9911008167743508,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.614898, 55.760804]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.752542372881356,
+        "id": 86357216713,
+        "name": "Политех",
+        "value": 0.9909789101548214,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.629411, 55.758566]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.7491525423728813,
+        "id": 213413353883,
+        "name": "Раковая на Таганке",
+        "value": 0.9908570035352919,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.649831, 55.735607]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.7457627118644068,
+        "id": 1141756662,
+        "name": "Powerhouse",
+        "value": 0.9907350969157626,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.646162, 55.745759]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.7423728813559322,
+        "id": 218377860079,
+        "name": "Dukh",
+        "value": 0.9906131902962331,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.635605, 55.762571]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.7389830508474576,
+        "id": 174457686347,
+        "name": "Frank by Баста",
+        "value": 0.9904912836767037,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.59086, 55.779635]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.735593220338983,
+        "id": 1112781310,
+        "name": "Нияма",
+        "value": 0.9903693770571742,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.654612, 55.74088]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.7322033898305085,
+        "id": 211159679669,
+        "name": "Hite",
+        "value": 0.9902474704376447,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.624315, 55.728172]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.7288135593220338,
+        "id": 182820679264,
+        "name": "We Cidreria",
+        "value": 0.9901255638181153,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.632967, 55.756248]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.7254237288135593,
+        "id": 239629303594,
+        "name": "Коробок",
+        "value": 0.9900036571985859,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.614928, 55.760736]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.7220338983050848,
+        "id": 144822449092,
+        "name": "Mishka Vodka Balalaika",
+        "value": 0.9898817505790565,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.666856, 55.739321]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.7186440677966102,
+        "id": 143862442062,
+        "name": "Yumbaker Home",
+        "value": 0.989759843959527,
+        "icon": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.626716, 55.732256]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.7152542372881356,
+        "id": 10033461831,
+        "name": "Finch",
+        "value": 0.9896379373399976,
+        "icon": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.625698, 55.728842]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.711864406779661,
+        "id": 3432528788,
+        "name": "Джумбус",
+        "value": 0.9895160307204681,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.667963, 55.74544]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.7084745762711865,
+        "id": 140435562060,
+        "name": "Frank by Баста",
+        "value": 0.9893941241009386,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.567657, 55.727273]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.7050847457627119,
+        "id": 1688108653,
+        "name": "Glastonberry",
+        "value": 0.9892722174814093,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.673578, 55.722814]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.7016949152542373,
+        "id": 65668193883,
+        "name": "Frank by Баста",
+        "value": 0.9891503108618798,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.623401, 55.7612]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.6983050847457627,
+        "id": 44880575916,
+        "name": "Paulaner",
+        "value": 0.9890284042423504,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.619914, 55.734757]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.6949152542372882,
+        "id": 68466230669,
+        "name": "Паника",
+        "value": 0.9889064976228209,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.632797, 55.773066]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.6915254237288135,
+        "id": 245212423246,
+        "name": "Таверна Дядя Геральт",
+        "value": 0.9887845910032915,
+        "icon": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.655069, 55.747357]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.688135593220339,
+        "id": 1372654778,
+        "name": "Pancho Villa",
+        "value": 0.988662684383762,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.611713, 55.73184]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.6847457627118644,
+        "id": 63055610828,
+        "name": "Стейк Хаус Бутчер",
+        "value": 0.9885407777642325,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.640805, 55.736038]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.6813559322033899,
+        "id": 242555002638,
+        "name": "Brasserie Lambic",
+        "value": 0.9884188711447032,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.608115, 55.767078]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.6779661016949152,
+        "id": 162203012088,
+        "name": "Espressium",
+        "value": 0.9882969645251737,
+        "icon": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.636861, 55.771645]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.6745762711864407,
+        "id": 168764246178,
+        "name": "Gorilla by Баста",
+        "value": 0.9881750579056443,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.632772, 55.761603]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.6711864406779661,
+        "id": 17591502790,
+        "name": "Марчеллис",
+        "value": 0.9880531512861148,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.614951, 55.760362]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.6677966101694915,
+        "id": 192407929827,
+        "name": "Руки Вверх!",
+        "value": 0.9879312446665854,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.674233, 55.738556]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.6644067796610169,
+        "id": 1243716134,
+        "name": "Paul",
+        "value": 0.987809338047056,
+        "icon": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.642476, 55.735765]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.6610169491525424,
+        "id": 148116486622,
+        "name": "Frank by Баста",
+        "value": 0.9876874314275265,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.63519, 55.76287]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.6576271186440678,
+        "id": 159878906447,
+        "name": "Megobari",
+        "value": 0.9875655248079971,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.632232, 55.771206]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.6542372881355932,
+        "id": 1103076129,
+        "name": "Brasserie Lambic",
+        "value": 0.9874436181884676,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.653972, 55.75438]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.6508474576271186,
+        "id": 115809255981,
+        "name": "RiverOne",
+        "value": 0.9873217115689382,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.630546, 55.700259]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.6474576271186441,
+        "id": 123697358879,
+        "name": "Parka",
+        "value": 0.9871998049494087,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.628398, 55.741423]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.6440677966101694,
+        "id": 181544007639,
+        "name": "Underdog",
+        "value": 0.9870778983298794,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.635571, 55.757402]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.6406779661016949,
+        "id": 76863719030,
+        "name": "Smoke Dog",
+        "value": 0.9869559917103499,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.624907, 55.708799]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.6372881355932203,
+        "id": 35261521680,
+        "name": "Мята Platinum",
+        "value": 0.9868340850908204,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.647744, 55.702826]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.6338983050847458,
+        "id": 200842397469,
+        "name": "Барвиха Lounge",
+        "value": 0.986712178471291,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.548282, 55.862763]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.6305084745762712,
+        "id": 95340956292,
+        "name": "Pivaldi",
+        "value": 0.9865902718517615,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.256456, 55.905574]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.6271186440677966,
+        "id": 1233555813,
+        "name": "Экспедиция",
+        "value": 0.9864683652322321,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.641641, 55.751722]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.6237288135593221,
+        "id": 230676022175,
+        "name": "Osteria Mario",
+        "value": 0.9863464586127026,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.628711, 55.741614]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.6203389830508474,
+        "id": 1737958850,
+        "name": "Ресторан Краснодар",
+        "value": 0.9862245519931733,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.614143, 55.76155]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.6169491525423729,
+        "id": 77291562852,
+        "name": "Библиотека Shisha Lounge",
+        "value": 0.9861026453736438,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.632418, 55.757134]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.6135593220338983,
+        "id": 216309554564,
+        "name": "Лиса и Гусь",
+        "value": 0.9859807387541143,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.599375, 55.720243]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.6101694915254238,
+        "id": 107133669231,
+        "name": "Camera Obscura",
+        "value": 0.9858588321345849,
+        "icon": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.347663, 55.691479]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.6067796610169491,
+        "id": 127718727994,
+        "name": "LISObon",
+        "value": 0.9857369255150554,
+        "icon": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.633345, 55.770027]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.6033898305084746,
+        "id": 2924377283,
+        "name": "Бобсон лаундж",
+        "value": 0.985615018895526,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.685737, 55.745207]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.6,
+        "id": 45467588506,
+        "name": "Method Beer & Munchies",
+        "value": 0.9854931122759966,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.659801, 55.741614]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.5966101694915255,
+        "id": 166198818190,
+        "name": "Harats pub",
+        "value": 0.9853712056564672,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.654289, 55.740737]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.5932203389830508,
+        "id": 244151023247,
+        "name": "Brasserie Lambic",
+        "value": 0.9852492990369377,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.627348, 55.756205]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.5898305084745763,
+        "id": 136715961903,
+        "name": "The Abbey Players",
+        "value": 0.9851273924174082,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.598111, 55.752688]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.5864406779661017,
+        "id": 153157302481,
+        "name": "Охотка",
+        "value": 0.9850054857978788,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.632597, 55.771338]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.5830508474576271,
+        "id": 83999551334,
+        "name": "Бьёрн",
+        "value": 0.9848835791783493,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.626913, 55.745536]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.5796610169491525,
+        "id": 142454318598,
+        "name": "Figo",
+        "value": 0.98476167255882,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.58301, 55.744174]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.576271186440678,
+        "id": 104269030501,
+        "name": "АндерСон",
+        "value": 0.9846397659392905,
+        "icon": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.583285, 55.736073]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.5728813559322034,
+        "id": 1043875391,
+        "name": "Torro Grill",
+        "value": 0.9845178593197611,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.666545, 55.731185]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.5694915254237288,
+        "id": 116256194336,
+        "name": "Ocean Basket",
+        "value": 0.9843959527002316,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.63253, 55.761463]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.5661016949152542,
+        "id": 216318179518,
+        "name": "Ra'men",
+        "value": 0.9842740460807022,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.61954, 55.772151]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.5627118644067797,
+        "id": 1791390426,
+        "name": "Мята Lounge",
+        "value": 0.9841521394611727,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.656631, 55.712142]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.559322033898305,
+        "id": 1642615724,
+        "name": "Белый журавль",
+        "value": 0.9840302328416433,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.593252, 55.730846]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.5559322033898305,
+        "id": 195747345804,
+        "name": "Алёша и Графин",
+        "value": 0.9839083262221139,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.651968, 55.743431]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.5525423728813559,
+        "id": 73802019073,
+        "name": "АндерСон",
+        "value": 0.9837864196025844,
+        "icon": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.607878, 55.711331]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.5491525423728814,
+        "id": 105652629374,
+        "name": "Garda",
+        "value": 0.983664512983055,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.616577, 55.764558]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.5457627118644067,
+        "id": 1178045848,
+        "name": "Lumberjack",
+        "value": 0.9835426063635255,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.63522, 55.756304]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.5423728813559322,
+        "id": 11618800196,
+        "name": "Tacobar",
+        "value": 0.9834206997439962,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.627607, 55.732966]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.5389830508474577,
+        "id": 1292093992,
+        "name": "Кусочки",
+        "value": 0.9832987931244667,
+        "icon": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.60758, 55.713859]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.535593220338983,
+        "id": 72362343704,
+        "name": "Camorra",
+        "value": 0.9831768865049372,
+        "icon": "fast_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.637075, 55.755046]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.5322033898305085,
+        "id": 52628070422,
+        "name": "Salden’s Taphouse",
+        "value": 0.9830549798854078,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.626934, 55.745513]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.5288135593220339,
+        "id": 13061822700,
+        "name": "HookahPlace Siberia",
+        "value": 0.9829330732658783,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.642288, 55.679164]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.5254237288135594,
+        "id": 1233004086,
+        "name": "Barmalini",
+        "value": 0.9828111666463489,
+        "icon": "fast_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.642835, 55.734959]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.5220338983050847,
+        "id": 53143824028,
+        "name": "Brasserie Lambic",
+        "value": 0.9826892600268194,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.595961, 55.736884]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.5186440677966102,
+        "id": 1547182500,
+        "name": "Проект 6/2 лаундж-бар",
+        "value": 0.9825673534072901,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.597639, 55.75193]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.5152542372881356,
+        "id": 98332503776,
+        "name": "Мята Platinum",
+        "value": 0.9824454467877606,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.636778, 55.80102]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.511864406779661,
+        "id": 66557493473,
+        "name": "Рислинг Бойз",
+        "value": 0.9822016335487017,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.632049, 55.768418]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.5084745762711864,
+        "id": 4251683323,
+        "name": "I Like Grill",
+        "value": 0.9820797269291722,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.58524, 55.735131]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.5050847457627119,
+        "id": 54921714191,
+        "name": "Пицца 22 СМ",
+        "value": 0.9819578203096428,
+        "icon": "fast_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.63813, 55.754576]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.5016949152542373,
+        "id": 243058125129,
+        "name": "Prscco",
+        "value": 0.9818359136901134,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.62834, 55.741367]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.49830508474576274,
+        "id": 37098848122,
+        "name": "Мичелада",
+        "value": 0.981714007070584,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.634217, 55.757244]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.49491525423728816,
+        "id": 64218583601,
+        "name": "Brasserie Lambic",
+        "value": 0.9815921004510545,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.599858, 55.750763]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.4915254237288136,
+        "id": 1158807252,
+        "name": "Villaggio",
+        "value": 0.981470193831525,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.529235, 55.663964]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.488135593220339,
+        "id": 96503031608,
+        "name": "Салют",
+        "value": 0.9813482872119956,
+        "icon": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.612524, 55.766975]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.4847457627118644,
+        "id": 121008180091,
+        "name": "Restaurant by Deep Fried Friends",
+        "value": 0.9812263805924661,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.647086, 55.746384]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.48135593220338985,
+        "id": 63255769614,
+        "name": "Парник",
+        "value": 0.9811044739729368,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.623721, 55.761939]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.47796610169491527,
+        "id": 215880363853,
+        "name": "HookahPlace Forever",
+        "value": 0.9809825673534073,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.633925, 55.763072]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.4745762711864407,
+        "id": 177630799159,
+        "name": "По Чесноку",
+        "value": 0.9808606607338779,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.645232, 55.730336]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.4711864406779661,
+        "id": 173338242118,
+        "name": "Alma",
+        "value": 0.9807387541143484,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.568249, 55.76435]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.46779661016949153,
+        "id": 178163075524,
+        "name": "Pioner’s",
+        "value": 0.9806168474948189,
+        "icon": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.690492, 55.73705]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.46440677966101696,
+        "id": 116002338995,
+        "name": "Узоры",
+        "value": 0.9804949408752895,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.568056, 55.754792]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.4610169491525424,
+        "id": 90849443892,
+        "name": "TIMELESS",
+        "value": 0.9803730342557601,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.631666, 55.765162]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.4576271186440678,
+        "id": 1753609545,
+        "name": "O'Donoghue's",
+        "value": 0.9802511276362307,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.629165, 55.740836]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.4542372881355932,
+        "id": 162321151931,
+        "name": "Паб 2: 2",
+        "value": 0.9801292210167012,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.632413, 55.768412]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.45084745762711864,
+        "id": 123236195028,
+        "name": "Coffeebara",
+        "value": 0.9800073143971718,
+        "icon": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.62439, 55.727959]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.44745762711864406,
+        "id": 1003676288,
+        "name": "ГончаровЪ",
+        "value": 0.9798854077776423,
+        "icon": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.568859, 55.797622]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.4440677966101695,
+        "id": 117512593463,
+        "name": "Jojobar",
+        "value": 0.9797635011581128,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.632591, 55.771476]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.4406779661016949,
+        "id": 168576118026,
+        "name": "Чайхона Айва",
+        "value": 0.9796415945385835,
+        "icon": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.640961, 55.731468]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.43728813559322033,
+        "id": 46445058680,
+        "name": "Игристый",
+        "value": 0.979519687919054,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.625421, 55.73022]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.43389830508474575,
+        "id": 207344284285,
+        "name": "Mill",
+        "value": 0.9793977812995246,
+        "icon": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.210317, 56.002139]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.43050847457627117,
+        "id": 89444132633,
+        "name": "Touch Chef’s Place & Bar",
+        "value": 0.9792758746799951,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.628269, 55.74648]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.4271186440677966,
+        "id": 200805773509,
+        "name": "Blanc",
+        "value": 0.9791539680604657,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.643204, 55.755949]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.423728813559322,
+        "id": 149416528123,
+        "name": "Стейк ИТ изи",
+        "value": 0.9790320614409362,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.586965, 55.752137]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.42033898305084744,
+        "id": 192970555781,
+        "name": "Kiosk 1936",
+        "value": 0.9789101548214068,
+        "icon": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.64268, 55.761887]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.41694915254237286,
+        "id": 9766122075,
+        "name": "Bambule",
+        "value": 0.9787882482018774,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.637712, 55.754432]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.4135593220338983,
+        "id": 123387734060,
+        "name": "Петров и Васечка",
+        "value": 0.9786663415823479,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.622369, 55.770989]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.4101694915254237,
+        "id": 1394232308,
+        "name": "Кофемания",
+        "value": 0.9785444349628185,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.615726, 55.741778]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.4067796610169492,
+        "id": 1720143855,
+        "name": "Кот Шрёдингера",
+        "value": 0.978422528343289,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.611224, 55.765431]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.4033898305084746,
+        "id": 202627423041,
+        "name": "Mollusca",
+        "value": 0.9783006217237596,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.614517, 55.761557]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.4,
+        "id": 110563584647,
+        "name": "Клуб",
+        "value": 0.9781787151042302,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.646147, 55.757667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.39661016949152544,
+        "id": 109434427876,
+        "name": "Flaner",
+        "value": 0.9780568084847007,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.636602, 55.76243]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.39322033898305087,
+        "id": 13342188206,
+        "name": "Moró",
+        "value": 0.9779349018651713,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.614031, 55.760059]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.3898305084745763,
+        "id": 235432737792,
+        "name": "StandUp Cafe",
+        "value": 0.9778129952456418,
+        "icon": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.645577, 55.759106]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.3864406779661017,
+        "id": 41570308772,
+        "name": "Voлчья Sтая",
+        "value": 0.9776910886261124,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.64, 55.766188]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.38305084745762713,
+        "id": 202319445839,
+        "name": "Ив. Дурдинъ",
+        "value": 0.9775691820065829,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.670976, 55.731115]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.37966101694915255,
+        "id": 65194335013,
+        "name": "Los Bandidos",
+        "value": 0.9774472753870536,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.632569, 55.757266]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.376271186440678,
+        "id": 80114964108,
+        "name": "Masters & Margaritas",
+        "value": 0.9773253687675241,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.627324, 55.745055]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.3728813559322034,
+        "id": 1700478717,
+        "name": "Лето Лаунж",
+        "value": 0.9772034621479946,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.58227, 55.724989]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.3694915254237288,
+        "id": 146678652878,
+        "name": "Мята Lounge",
+        "value": 0.9770815555284652,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.594764, 55.750241]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.36610169491525424,
+        "id": 158215149746,
+        "name": "Ossu Eatery Asian Barroom",
+        "value": 0.9769596489089357,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.632142, 55.767029]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.36271186440677966,
+        "id": 84212786682,
+        "name": "Mr. Ливанец",
+        "value": 0.9768377422894063,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.609434, 55.763077]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.3593220338983051,
+        "id": 102799262668,
+        "name": "Мария Санта",
+        "value": 0.9767158356698769,
+        "icon": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.624984, 55.769419]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.3559322033898305,
+        "id": 179700634046,
+        "name": "Бар Журавли",
+        "value": 0.9765939290503475,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.615765, 55.762941]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.3525423728813559,
+        "id": 204795050706,
+        "name": "На Связи",
+        "value": 0.976472022430818,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.632628, 55.757743]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.34915254237288135,
+        "id": 1057434534,
+        "name": "Кофемания",
+        "value": 0.9763501158112885,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.646029, 55.75922]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.34576271186440677,
+        "id": 222602692069,
+        "name": "Цирк",
+        "value": 0.9762282091917591,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.619397, 55.772147]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.3423728813559322,
+        "id": 119946011681,
+        "name": "IL Патио",
+        "value": 0.9761063025722296,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.604779, 55.745438]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.3389830508474576,
+        "id": 1755817554,
+        "name": "Триггер",
+        "value": 0.9759843959527003,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.625099, 55.680298]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.33559322033898303,
+        "id": 37078771842,
+        "name": "Мята Signature",
+        "value": 0.9758624893331708,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.592411, 55.708562]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.33220338983050846,
+        "id": 1145477528,
+        "name": "By the wine",
+        "value": 0.9757405827136414,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.587339, 55.739208]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.3288135593220339,
+        "id": 1055916386,
+        "name": "Delicatessen",
+        "value": 0.9756186760941119,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.610892, 55.772606]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.3254237288135593,
+        "id": 1404670525,
+        "name": "Итальянский ресторан Villa Pasta",
+        "value": 0.9754967694745824,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.628268, 55.740935]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.3220338983050847,
+        "id": 27886969842,
+        "name": "Bro&n",
+        "value": 0.975374862855053,
+        "icon": "fast_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.614305, 55.760061]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.31864406779661014,
+        "id": 68300997210,
+        "name": "Ладо",
+        "value": 0.9752529562355235,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.63729, 55.762779]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.3152542372881356,
+        "id": 74042940170,
+        "name": "Двойная жизнь Вероники",
+        "value": 0.9751310496159942,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.626269, 55.757932]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.31186440677966104,
+        "id": 1683518098,
+        "name": "Винный базар",
+        "value": 0.9750091429964647,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.590329, 55.731454]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.30847457627118646,
+        "id": 128107464824,
+        "name": "CHILLING",
+        "value": 0.9748872363769353,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.672846, 55.778516]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.3050847457627119,
+        "id": 1153949694,
+        "name": "Молоко",
+        "value": 0.9747653297574058,
+        "icon": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.61459, 55.76113]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.3016949152542373,
+        "id": 27339938644,
+        "name": "Зинзивер",
+        "value": 0.9746434231378764,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.645529, 55.758817]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.2983050847457627,
+        "id": 126104918095,
+        "name": "Китайские новости",
+        "value": 0.974521516518347,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.590338, 55.752148]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.29491525423728815,
+        "id": 46652323738,
+        "name": "Frank by Баста",
+        "value": 0.9743996098988175,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.590836, 55.752153]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.29152542372881357,
+        "id": 129284806700,
+        "name": "Brunch Time",
+        "value": 0.9742777032792881,
+        "icon": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.210203, 56.00231]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.288135593220339,
+        "id": 67231411649,
+        "name": "Скалка",
+        "value": 0.9741557966597586,
+        "icon": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.694019, 55.737195]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.2847457627118644,
+        "id": 1222085109,
+        "name": "Paulaner",
+        "value": 0.9740338900402292,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.641909, 55.732837]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.28135593220338984,
+        "id": 67155683857,
+        "name": "JohnCalliano Lounge",
+        "value": 0.9739119834206997,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.638224, 55.753907]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.27796610169491526,
+        "id": 184070299913,
+        "name": "Dictatura Æstetica",
+        "value": 0.9737900768011704,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.60881, 55.740528]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.2745762711864407,
+        "id": 144225814255,
+        "name": "Голубка",
+        "value": 0.9736681701816409,
+        "icon": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.592745, 55.731965]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.2711864406779661,
+        "id": 59096663781,
+        "name": "Osteria Mario",
+        "value": 0.9735462635621114,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.658027, 55.761237]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.2677966101694915,
+        "id": 10567770012,
+        "name": "Cactus J.",
+        "value": 0.973424356942582,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.608298, 55.715418]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.26440677966101694,
+        "id": 188515485499,
+        "name": "Км20",
+        "value": 0.9733024503230525,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.611901, 55.762006]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.26101694915254237,
+        "id": 222586523958,
+        "name": "Иван-Чайное Купе",
+        "value": 0.9731805437035231,
+        "icon": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.639964, 55.737511]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.2576271186440678,
+        "id": 111082857157,
+        "name": "Кусочки Экстра",
+        "value": 0.9730586370839936,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.624118, 55.784974]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.2542372881355932,
+        "id": 11901641817,
+        "name": "Хитте",
+        "value": 0.9729367304644643,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.581758, 55.7117]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.25084745762711863,
+        "id": 1202015176,
+        "name": "Черетто Море",
+        "value": 0.9728148238449348,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.627515, 55.734584]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.24745762711864408,
+        "id": 218079971493,
+        "name": "Паблик",
+        "value": 0.9726929172254053,
+        "icon": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.600401, 55.720846]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.2440677966101695,
+        "id": 135013165520,
+        "name": "Джиб Доор",
+        "value": 0.9725710106058759,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.632592, 55.766907]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.24067796610169492,
+        "id": 169659738295,
+        "name": "Радиола",
+        "value": 0.9724491039863464,
+        "icon": "fast_food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.68957, 55.737143]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.23728813559322035,
+        "id": 134654216652,
+        "name": "Bigati bar",
+        "value": 0.972327197366817,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.657426, 55.763706]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.23389830508474577,
+        "id": 130480646460,
+        "name": "Lambic Seafood",
+        "value": 0.9722052907472876,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.60677, 55.7627]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.2305084745762712,
+        "id": 1036000301,
+        "name": "Eat & Talk",
+        "value": 0.9720833841277582,
+        "icon": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.61107, 55.753014]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.2271186440677966,
+        "id": 61786401208,
+        "name": "Адам",
+        "value": 0.9719614775082287,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.586868, 55.773635]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.22372881355932203,
+        "id": 46528453069,
+        "name": "Nicepricecafe",
+        "value": 0.9718395708886992,
+        "icon": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.678933, 55.738244]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.22033898305084745,
+        "id": 6531532095,
+        "name": "Sempre",
+        "value": 0.9717176642691698,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.612851, 55.763409]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.21694915254237288,
+        "id": 55731549002,
+        "name": "Шоколадница",
+        "value": 0.9715957576496403,
+        "icon": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.682457, 55.746567]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.2135593220338983,
+        "id": 144965826695,
+        "name": "Dukh",
+        "value": 0.971473851030111,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.602145, 55.757385]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.21016949152542372,
+        "id": 80377689687,
+        "name": "We Cidreria",
+        "value": 0.9713519444105815,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.59864, 55.767975]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.20677966101694914,
+        "id": 1758842876,
+        "name": "Lion's Head Pub",
+        "value": 0.9712300377910521,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.634945, 55.762986]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.2033898305084746,
+        "id": 13156405625,
+        "name": "Депо",
+        "value": 0.9711081311715226,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.592969, 55.780214]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.2,
+        "id": 59329211968,
+        "name": "Уе!бар",
+        "value": 0.9709862245519931,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.634028, 55.757468]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.19661016949152543,
+        "id": 1195201760,
+        "name": "Mollie's pub",
+        "value": 0.9708643179324637,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.634403, 55.762528]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.19322033898305085,
+        "id": 210821191889,
+        "name": "Buba by Sumosan",
+        "value": 0.9707424113129343,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.584626, 55.735539]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.18983050847457628,
+        "id": 1195657414,
+        "name": "Одесса-мама",
+        "value": 0.9706205046934049,
+        "icon": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.63568, 55.761849]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.1864406779661017,
+        "id": 133933857803,
+        "name": "Профсоюз",
+        "value": 0.9704985980738754,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.600251, 55.782371]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.18305084745762712,
+        "id": 39244530596,
+        "name": "Мадлиани",
+        "value": 0.9702547848348165,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.675888, 55.736829]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.17966101694915254,
+        "id": 190919154252,
+        "name": "Рыба Мечты",
+        "value": 0.970132878215287,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.640752, 55.740498]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.17627118644067796,
+        "id": 77674788829,
+        "name": "Mo friends",
+        "value": 0.9700109715957577,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.618286, 55.76416]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.17288135593220338,
+        "id": 219411207022,
+        "name": "Balance",
+        "value": 0.9698890649762282,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.584747, 55.735469]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.1694915254237288,
+        "id": 72829182973,
+        "name": "АндерСон",
+        "value": 0.9697671583566988,
+        "icon": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.536234, 55.606301]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.16610169491525423,
+        "id": 165398655321,
+        "name": "Hands",
+        "value": 0.9696452517371693,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.573086, 55.73536]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.16271186440677965,
+        "id": 1269789076,
+        "name": "Энтузиаст",
+        "value": 0.9695233451176399,
+        "icon": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.614069, 55.763769]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.15932203389830507,
+        "id": 1399572853,
+        "name": "Шоколадница",
+        "value": 0.9694014384981104,
+        "icon": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.15218, 55.984764]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.15593220338983052,
+        "id": 3269363453,
+        "name": "Кофемания",
+        "value": 0.969279531878581,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.62067, 55.712761]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.15254237288135594,
+        "id": 98278679666,
+        "name": "Osteria Mario",
+        "value": 0.9691576252590516,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.579235, 55.760369]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.14915254237288136,
+        "id": 86165591578,
+        "name": "Гудман",
+        "value": 0.9690357186395221,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.634358, 55.73049]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.14576271186440679,
+        "id": 101563741477,
+        "name": "Linbistró",
+        "value": 0.9689138120199927,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.596155, 55.739084]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.1423728813559322,
+        "id": 1132721398,
+        "name": "Torro Grill",
+        "value": 0.9687919054004632,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.644896, 55.72854]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.13898305084745763,
+        "id": 1705556639,
+        "name": "Connolly Station",
+        "value": 0.9686699987809338,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.612613, 55.762232]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.13559322033898305,
+        "id": 64863968428,
+        "name": "Скворец!",
+        "value": 0.9685480921614044,
+        "icon": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.597438, 55.759429]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.13220338983050847,
+        "id": 189792261100,
+        "name": "Rudi Italian bistro",
+        "value": 0.9684261855418749,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.599177, 55.78298]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.1288135593220339,
+        "id": 187634822305,
+        "name": "Dizengof99",
+        "value": 0.9683042789223455,
+        "icon": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.646724, 55.757275]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.12542372881355932,
+        "id": 30508352288,
+        "name": "Рыба моя",
+        "value": 0.968182372302816,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.585203, 55.735158]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.12203389830508475,
+        "id": 215540336717,
+        "name": "Atmosphere cafe & lounge",
+        "value": 0.9680604656832866,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.655658, 55.707635]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.11864406779661017,
+        "id": 198783198332,
+        "name": "Nome",
+        "value": 0.9679385590637571,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.610026, 55.765763]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.1152542372881356,
+        "id": 213918131473,
+        "name": "Мята Platinum",
+        "value": 0.9678166524442278,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.620492, 55.768846]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.11186440677966102,
+        "id": 1182852331,
+        "name": "Хачапури",
+        "value": 0.9676947458246983,
+        "icon": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.605314, 55.763247]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.10847457627118644,
+        "id": 16754211866,
+        "name": "Пинки и кофе",
+        "value": 0.9675728392051688,
+        "icon": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.63714, 55.771493]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.10508474576271186,
+        "id": 154967328294,
+        "name": "Мёд и Пряность",
+        "value": 0.9674509325856394,
+        "icon": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.587919, 55.738352]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.1016949152542373,
+        "id": 107350315360,
+        "name": "Gentle",
+        "value": 0.9673290259661099,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.598124, 55.758326]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.09830508474576272,
+        "id": 115860848898,
+        "name": "Джинститут",
+        "value": 0.9672071193465805,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.637336, 55.754066]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.09491525423728814,
+        "id": 179881607255,
+        "name": "Кофевуд",
+        "value": 0.9670852127270511,
+        "icon": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.657193, 55.741385]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.09152542372881356,
+        "id": 191911335353,
+        "name": "Сыроварня",
+        "value": 0.9669633061075217,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.604461, 55.731411]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.08813559322033898,
+        "id": 98928284547,
+        "name": "Bshushu",
+        "value": 0.9668413994879922,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.581634, 55.781819]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.0847457627118644,
+        "id": 52616228699,
+        "name": "Кнорозов бар",
+        "value": 0.9667194928684628,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.627663, 55.733008]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.08135593220338982,
+        "id": 1058448426,
+        "name": "Стрелка",
+        "value": 0.9665975862489333,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.609307, 55.742451]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.07796610169491526,
+        "id": 90243535615,
+        "name": "Бар-кальянная Дуть",
+        "value": 0.9664756796294038,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.634096, 55.75743]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.07457627118644068,
+        "id": 11102813801,
+        "name": "Кофейня",
+        "value": 0.9663537730098745,
+        "icon": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.678073, 55.735709]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.0711864406779661,
+        "id": 167932399883,
+        "name": "Рюмочная мечты",
+        "value": 0.966231866390345,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.637273, 55.754955]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.06779661016949153,
+        "id": 230993401280,
+        "name": "Веладора",
+        "value": 0.9659880531512861,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.639927, 55.758229]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.06440677966101695,
+        "id": 125857795831,
+        "name": "Farш",
+        "value": 0.9658661465317566,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.637945, 55.730687]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.061016949152542375,
+        "id": 148125828288,
+        "name": "Широкую на широкую",
+        "value": 0.9657442399122272,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.636167, 55.761526]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.0576271186440678,
+        "id": 108167458341,
+        "name": "Кофемания",
+        "value": 0.9656223332926978,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.567702, 55.72774]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.05423728813559322,
+        "id": 1123501418,
+        "name": "Му-Му",
+        "value": 0.9655004266731684,
+        "icon": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.6586, 55.741083]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.05084745762711865,
+        "id": 64698596949,
+        "name": "Шоколадница",
+        "value": 0.9653785200536389,
+        "icon": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.614436, 55.76038]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.04745762711864407,
+        "id": 234923113255,
+        "name": "Санта Базилия",
+        "value": 0.9652566134341095,
+        "icon": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.633246, 55.777379]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.04406779661016949,
+        "id": 20028346313,
+        "name": "Танцы food&people",
+        "value": 0.96513470681458,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.605447, 55.738831]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.04067796610169491,
+        "id": 135570656075,
+        "name": "Zemlya Moscow",
+        "value": 0.9650128001950506,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.563861, 55.733644]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.03728813559322034,
+        "id": 1089038717,
+        "name": "El Asador",
+        "value": 0.9648908935755212,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.624531, 55.734997]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.03389830508474576,
+        "id": 1143702097,
+        "name": "Хидден",
+        "value": 0.9647689869559917,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.614045, 55.760022]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.030508474576271188,
+        "id": 227575980951,
+        "name": "Рихтер",
+        "value": 0.9646470803364623,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.627966, 55.73779]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.02711864406779661,
+        "id": 1086227774,
+        "name": "Kefi",
+        "value": 0.9645251737169328,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.593335, 55.74042]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.023728813559322035,
+        "id": 189308512047,
+        "name": "Сюр",
+        "value": 0.9644032670974034,
+        "icon": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.64279, 55.754736]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.020338983050847456,
+        "id": 171625051671,
+        "name": "Тото",
+        "value": 0.9642813604778739,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.613951, 55.763711]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.01694915254237288,
+        "id": 68370311560,
+        "name": "Harvey & Monica",
+        "value": 0.9641594538583445,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.646853, 55.741535]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.013559322033898305,
+        "id": 4015042547,
+        "name": "Шануар",
+        "value": 0.9640375472388151,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.604214, 55.762969]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.010169491525423728,
+        "id": 120680697691,
+        "name": "Moloko lounge bar",
+        "value": 0.9639156406192856,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.627438, 55.746891]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.006779661016949152,
+        "id": 180956126103,
+        "name": "Пороселло",
+        "value": 0.9637937339997562,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.599788, 55.78233]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0.003389830508474576,
+        "id": 80870572966,
+        "name": "Tangiers Lounge",
+        "value": 0.9636718273802267,
+        "icon": "night_club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.648754, 55.761079]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "quantile": 0,
+        "id": 160823978385,
+        "name": "Jacky Jacky",
+        "value": 0.9635499207606973,
+        "icon": "restaurants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.562261, 55.796111]
+      }
+    }
+  ]
+}
